@@ -1,0 +1,1 @@
+CREATE DATABASE dummy_library_db;
